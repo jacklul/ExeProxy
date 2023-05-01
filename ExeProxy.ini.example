@@ -1,0 +1,5 @@
+[main]
+exe=C:\PHP\php.exe
+;args=
+addpath=true
+;debug=true

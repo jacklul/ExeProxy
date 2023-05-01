@@ -1,0 +1,7 @@
+[main]
+default_exe=C:\MultiPHP\8.2\php.exe
+multi_path=C:\MultiPHP\
+config_path=C:\MultiPHP\config
+;args=
+addpath=true
+;debug=true
