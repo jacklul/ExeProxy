@@ -1,5 +1,12 @@
 [main]
-exe=C:\PHP\php.exe
+exe=C:\PHP\8.5\php.exe
 ;args=
-addpath=true
 ;debug=true
+;add_to_path=false
+override_file=".phpversion"
+
+[7.4]
+exe=C:\PHP\7.4\php.exe
+
+[8.3]
+exe=C:\PHP\8.3\php.exe
